@@ -1,0 +1,11 @@
+* {
+    background-color: aqua;
+    font-family: "Arial", sans-serif;
+}
+
+#triangle {
+    width: 10%;
+    border: 120px solid transparent;
+    border-right: 120px solid #ff0000;
+
+}
